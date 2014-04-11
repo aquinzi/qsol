@@ -1,0 +1,124 @@
+﻿{
+  "pages": [
+    {
+      "text": "Mover las cartas a las Fundaciones. Consiste en mover las cartas de las Reservas, Descarte y Almacenamiento a las Fundaciones, y estrategicamente dentro de las Fundaciones para permitir mover mas cartas alli.", 
+      "tags": "decks/mazos: 2,difficulty/dificultad: Dif\u0137cil,Acey and Kingsley,Deuces and Queens,Racing Aces", 
+      "loc": "", 
+      "title": "Aces And Kings"
+    }, 
+    {
+      "text": "Eliminar todas las cartas del Tablero excepto los 4 Aces. Consiste en retirar todas las cartas menores al numero mas alto del mismo palo. (el As es considerada la carta mas alta)", 
+      "tags": "decks/mazos: 2,difficulty/dificultad: Dif\u0137cil,Firing Squad", 
+      "loc": "", 
+      "title": "Aces Up"
+    }, 
+    {
+      "text": "Mover las cartas a las Fundaciones. Consiste en mover las cartas de las Reservas, Descarte y Almacenamiento a las Fundaciones, y estrategicamente dentro de las Fundaciones para permitir mover mas cartas alli.", 
+      "tags": "decks/mazos: 2,difficulty/dificultad: Dif\u0137cil,Aces And Kings,Deuces and Queens,Racing Aces", 
+      "loc": "", 
+      "title": "Acey And Kingsley"
+    }, 
+    {
+      "text": "Mover las cartas a las Fundaciones. Consiste en mover las cartas de las Reservas y Tablero hacia las Fundaciones.", 
+      "tags": "decks/mazos: 2,difficulty/dificultad: F\u012fcil,Canfield,Double Canfield", 
+      "loc": "", 
+      "title": "American Toad"
+    }, 
+    {
+      "text": "Mover las cartas a las Fundaciones. Consiste en armar las fundaciones del As a la Jota. Las cartas solo se pueden jugar en la fila superior y reponerse de la anterior. ", 
+      "tags": "decks/mazos: 2 menos los Reyes y las Reinas,difficulty/dificultad: Muy F\u012fcil", 
+      "loc": "", 
+      "title": "British Constitution"
+    }, 
+    {
+      "text": "Mover las cartas a las Fundaciones. Consiste en mover las cartas de las Reservas y Tablero hacia las Fundaciones. ", 
+      "tags": "decks/mazos: 1,difficulty/dificultad: Medio,American Toad,Double Canfield,Canfield Triple,Canfield Quadruple,Canfield Superior,Canfield Variegated,Chameleon,Storehouse,Rainbow,Demon", 
+      "loc": "", 
+      "title": "Canfield"
+    }, 
+    {
+      "text": "Mover las cartas a las Fundaciones. Consiste en mover las cartas de las Reservas y Tablero hacia las Fundaciones. ", 
+      "tags": "decks/mazos: 3,difficulty/dificultad: F\u012fcil,American Toad,Canfield,Canfield Double,Canfield Quadruple,Canfield Superior,Canfield Variegated,Chameleon,Storehouse,Rainbow,Demon", 
+      "loc": "", 
+      "title": "Canfield Three Decks"
+    }, 
+    {
+      "text": "Mover todas las cartas a las Fundaciones. Consiste en mover todas las cartas a las Fundaciones. Las cartas en el Tablero que no tengan sus lados mas cortos tocando a otras cartas (expuestos), son las que se pueden jugar a las Fundaciones o el mazo. Las Fundaciones que empiezan con los Ases se construyen ascendentemente mientras que las que empiezan con el Rey se construyen descendentemente, ambos del mismo palo. ", 
+      "tags": "decks/mazos: 2,difficulty/dificultad: Dif\u0137cil,Este juego tambien se puede encontrar como Indian Carpet o Japanese Rug", 
+      "loc": "", 
+      "title": "Crazy Quilt"
+    }, 
+    {
+      "text": "Descartar todas las cartas en parejas. Consiste en emparejar las cartas del mismo valor. Los espacios de Tablero se rellenan con las cartas del mazo (solo 1)", 
+      "tags": "decks/mazos: 1,difficulty/dificultad: Dif\u0137cil,Simple Pairs", 
+      "loc": "", 
+      "title": "Criss Cross"
+    }, 
+    {
+      "text": "Mover las cartas a las Fundaciones. Consiste en mover las cartas a las Fundaciones. El Tablero esta dividido en dos partes: a la izquierda se construyen descendentemente alternando el color. A la derecha se construyen decentemente con el mismo palo. El grupo de cartas se pueden mover de un Tablero al otro, si forman una secuencia legal en su Tablero. Ej.: una secuencia que alterna el color puede moverse de la izquierda a la derecha ya que es legal en su Tablero, pero no de derecha a izquierda. Para ganar se recomienda intercambiar estrategicamente las Pilas de un lado del Tablero al otro.", 
+      "tags": "decks/mazos: 2,difficulty/dificultad: F\u012fcil,Canfield,Demonthief,Triple Demons,Forty Thieves,Antares,Yukon Puzzle", 
+      "loc": "", 
+      "title": "Demons and Thieves"
+    }, 
+    {
+      "text": "Mover las cartas a las Fundaciones. Consiste en tratar de mover todas las cartas a las Fundaciones pero solo moviendo una carta por vez para construir. Para ganar es recomendable hacer un espacio lo mas r\u012fpido posible. ", 
+      "tags": "decks/mazos: 2,difficulty/dificultad: Dif\u0137cil,Cadran,Josephine,San Juan Hill,Number Ten,Rank and File,Limited,Lucas", 
+      "loc": "", 
+      "title": "Forty Thieves"
+    }, 
+    {
+      "text": "Crear 4 secuencias de 12 cartas del mismo palo, desde los Dos a los Reyes. Un espacio se rellena con la proxima carta mas alta que la anterior. Ejemplo: hay un 7, [espacio], 10, en el espacio se debe rellenar con un 8 (respetando siempre el palo). Los espacios lejos a la izquierda son rellenados con los Dos (en un principio cualquiera, luego seguir la regla), si los espacios estan a la izquiera de un Rey, no se puede reemplazar.<br />Cuando los cuatro espacios estan despues de un Rey se pueden remezclar las cartas que no estan en su lugar correspondiente (que no sigan la escalera desde el Dos). Se puede elegir entre 2 mezclas o ilimitadas. ", 
+      "tags": "decks/mazos: 1,difficulty/dificultad: Muy F\u012fcil,Spaces and Aces,Free Parking,Maze", 
+      "loc": "", 
+      "title": "Gaps"
+    }, 
+    {
+      "text": "Mover todas las cartas a la pila de Descarte.. Consiste en mover las cartas del Tablero a la pila de Descarte, cuando no haya mas movimientos posibles (con esa carta) se da vuelta una carta del mazo. ", 
+      "tags": "decks/mazos: 1,difficulty/dificultad: Muy Dif\u0137cil,Putt Putt,Kings Way,Black Hole", 
+      "loc": "", 
+      "title": "Golf"
+    }, 
+    {
+      "text": "Mover las cartas a las Fundaciones. Consiste en mover las cartas a las Fundaciones.", 
+      "tags": "decks/mazos: 2,difficulty/dificultad: Muy F\u012fcil,Grandmothers,Sir Tommy,Twenty", 
+      "loc": "", 
+      "title": "Grandfather"
+    }, 
+    {
+      "text": "Mover las cartas a las Fundaciones. Consiste en mover las cartas a las Fundaciones teniendo en cuenta la carta indicadora de la fila de arriba. Ejemplo: Si la carta indicadora es un 2, en la Fundacion se debe empezar por el 3 hasta el As y colocar el 2 de la fila indicadora hacia la Fundacion.", 
+      "tags": "decks/mazos: 2,difficulty/dificultad: F\u012fcil,Primrose,German Patience", 
+      "loc": "", 
+      "title": "Interregnum"
+    }, 
+    {
+      "text": "Mover las cartas a las Fundaciones. Consiste en construir en el Tablero de manera descendente alternando el color, para luego moverlas a las Fundaciones.", 
+      "tags": "decks/mazos: 1,difficulty/dificultad: Medio,Double Klondike,Triple Klondike,Quadruple Klondike,Gargantua,Steps,Yukon", 
+      "loc": "", 
+      "title": "Klondike"
+    }, 
+    {
+      "text": "Descartar todas las cartas en par. Consiste en eliminar las cartas emparejandolas con otra del mismo valor ya sea horizontal, vertical o diagonalmente. Una vez que se descartan todos los pares disponibles, las cartas que quedan se mueven hacia la izquierda. Si los espacios estan en una fila superior, la carta es movida desde la primera columna (primer lugar desde la izquierda)  hasta la fila superior en la ultima columna (a la derecha). Las nuevas cartas son repartidas en los espacios vacios hasta completar el cuadrado de 5x5. Se sigue este procedimiento hasta que todas las cartas del mazo hayan sido repartidas.", 
+      "tags": "decks/mazos: 1,difficulty/dificultad: Medio,Monaco,Fourteens,Nestor,Doublets,Vertical", 
+      "loc": "", 
+      "title": "Monte Carlo"
+    }, 
+    {
+      "text": "Emparejar todas las cartas en el mazo que sumen 13. Se eliminan el par de cartas que sumen 13 <b>(Reina-As, Jota-2, 10-3, 9-4, 8-5, 7-6. Los Reyes se descartan sin par)</b>. Ya sea desde la pila de Descarte a la piramide o la carta superior de la pila de Descarte con la superior de la del Mazo. ", 
+      "tags": "decks/mazos: 1,difficulty/dificultad: Medio,Double Pyramid,Giza,Pharaohs,Pyramid Golf,Triangle,Pyramid Seven,Cheops", 
+      "loc": "", 
+      "title": "Pyramid"
+    }, 
+    {
+      "text": "Agrupar todas las cartas en sets de 13 en secuencia descendente en palo de Rey al As.. Consiste en formar grupos de 13 cartas del Rey al As del mismo palo, cuales despues son removidos del juego. Se recomienda destapar todas las cartas de cada pila y formar espacios para mover alli a los grupos de cartas por palo.", 
+      "tags": "decks/mazos: 2,difficulty/dificultad: Medio,Black Widow o Spider One Suit,Tarantula o Spider Two Suits,Beetle,Brown Recluse,Spider Web,Scorpion,Spiderette,Trapdoor Spider", 
+      "loc": "", 
+      "title": "Spider"
+    }, 
+    {
+      "text": "Mover las cartas a las Fundaciones. Se llama Stepping Stone (piedra para cruzar un pantano, rio, etc) porque las cartas van subiendo desde el Descarte, cruzando a la Escalera y finalmente a las Fundaciones. <b>Cada carta debe cruzar cada paso.</b>", 
+      "tags": "decks/mazos: 2,difficulty/dificultad: Muy F\u012fcil,Step Up,Staircase", 
+      "loc": "", 
+      "title": "Stepping Stone"
+    }
+  ]
+}

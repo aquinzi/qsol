@@ -1,0 +1,23 @@
+---
+name: British Constitution
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 2 menos los Reyes y las Reinas
+  difficulty: Muy Fįcil
+  skill: Balance de Suerte/Destreza
+  redeals: 
+object: "Mover las cartas a las Fundaciones. Consiste en armar las fundaciones del As a la Jota. Las cartas solo se pueden jugar en la fila superior y reponerse de la anterior. "
+setup : 
+  fundations: |
+    "<b>8 Pilas de Fundaciones</b>(arriba). Construccion ascendente de As a Jota. Al empezar el juego las Aces ya estan aca."
+  tableau: |
+    "<b>Rectangulo de 4 filas y 8 columas.</b> (debajo de las Fundaciones). <b>Construccion alternando el color.</b> La carta superior de cada pila esta habilitada para jugar a la fila inmediatamente superior. Los espacios se llenan con alguna carta de la fila anterior. La 4 fila de abajo se llena con cartas del Descarte."
+  reserve: |
+    ""
+  deck: |
+    "Mazo. Da vuelta 1 carta a la vez. <b>Sin vuelta de mazo.</b>"
+  imglay: imgs/solsetup/britishconstitution.gif
+similars: 
+  -  

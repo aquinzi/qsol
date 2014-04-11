@@ -1,0 +1,29 @@
+---
+name: Pyramid
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 1
+  difficulty: Medio
+  skill: Mas que nada Suerte
+  redeals: 
+object: "Emparejar todas las cartas en el mazo que sumen 13. Se eliminan el par de cartas que sumen 13 <b>(Reina-As, Jota-2, 10-3, 9-4, 8-5, 7-6. Los Reyes se descartan sin par)</b>. Ya sea desde la pila de Descarte a la piramide o la carta superior de la pila de Descarte con la superior de la del Mazo. "
+setup : 
+  fundations: |
+    ""
+  tableau: |
+    "Una <b>Piramide de 28 cartas cara arriba</b> (la construccion comienza desde 1 unica carta en la punta, siguiendo 2 cubriendo la de arriba y asi, hasta 7 filas)."
+  reserve: |
+    ""
+  deck: |
+    "Mazo (cara arriba). Da vuelta 1 carta por vez a la pila de Descarte. <b>Dos vueltas de mazo.</b>"
+  imglay: imgs/solsetup/pyramid.gif
+similars: 
+  - Double Pyramid 
+  - Giza 
+  - Pharaohs 
+  - Pyramid Golf 
+  - Triangle 
+  - Pyramid Seven 
+  - Cheops 

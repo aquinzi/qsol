@@ -1,0 +1,30 @@
+---
+name: Spider
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 2
+  difficulty: Medio
+  skill: Mas que nada Destreza
+  redeals: 
+object: "Agrupar todas las cartas en sets de 13 en secuencia descendente en palo de Rey al As.. Consiste en formar grupos de 13 cartas del Rey al As del mismo palo, cuales despues son removidos del juego. Se recomienda destapar todas las cartas de cada pila y formar espacios para mover alli a los grupos de cartas por palo."
+setup : 
+  fundations: |
+    ""
+  tableau: |
+    "<b>10 Pilas de Tablero.</b> Construccion descendente sin importar el palo. <b>Los grupos que estan construidos del mismo palo son movidos como una unidad.</b> Un espacio se puede llenar con cualquiera carta o grupo legal de cartas. Al principio de juego <b>6 cartas son repartidas en las 4 primeras Pilas, 5 cartas en las restantes.</b> La carta superior es la unica cara arriba."
+  reserve: |
+    ""
+  deck: |
+    "Mazo (arriba a la izquierda, cara abajo). Reparte 1 carta en cada pila. <b>Todas las Pilas de Tablero deben estar llenas antes de repartir.</b>"
+  imglay: imgs/solsetup/spider.gif
+similars: 
+  - Black Widow o Spider One Suit 
+  - Tarantula o Spider Two Suits 
+  - Beetle 
+  - Brown Recluse 
+  - Spider Web 
+  - Scorpion 
+  - Spiderette 
+  - Trapdoor Spider 

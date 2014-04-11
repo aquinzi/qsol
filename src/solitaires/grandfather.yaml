@@ -1,0 +1,25 @@
+---
+name: Grandfather
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 2
+  difficulty: Muy Fįcil
+  skill: Balance de Suerte/Destreza
+  redeals: 
+object: "Mover las cartas a las Fundaciones. Consiste en mover las cartas a las Fundaciones."
+setup : 
+  fundations: |
+    "<b>8 Pilas de Fundaciones.</b>Construir las <b>primeras 4 Pilas ascendentemente del mismo palo</b> de As a Rey (1 para cada palo), <b>las ultimas 4 descendentemente</b> de Rey a As (1 por cada palo)."
+  tableau: |
+    "<b>20 Pilas de Tablero</b>(debajo de las Fundaciones, cara arriba). Al empezar el juego, las cartas ya estan repartidas. Estas cartas pueden contener hasta 1 mas en su posicion pero solo la carta superior esta habilitada para jugar. Los espacios se rellenan enseguida desde el mazo."
+  reserve: |
+    ""
+  deck: |
+    "Mazo. Se da vuelta una carta por vez. <b>1 vuelta de mazo.</b>"
+  imglay: imgs/solsetup/grandfather.gif
+similars: 
+  - Grandmothers 
+  - Sir Tommy 
+  - Twenty 

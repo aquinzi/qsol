@@ -1,0 +1,14 @@
+<!DOCTYPE html><html>
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>QSol</title>
+	<link rel="stylesheet" type="text/css" href="css/tipuesearch.css">
+	</head><body><h1>Monte Carlo</h1><p>Descartar todas las cartas en par. Consiste en eliminar las cartas emparejandolas con otra del mismo valor ya sea horizontal, vertical o diagonalmente. Una vez que se descartan todos los pares disponibles, las cartas que quedan se mueven hacia la izquierda. Si los espacios estan en una fila superior, la carta es movida desde la primera columna (primer lugar desde la izquierda)  hasta la fila superior en la ultima columna (a la derecha). Las nuevas cartas son repartidas en los espacios vacios hasta completar el cuadrado de 5x5. Se sigue este procedimiento hasta que todas las cartas del mazo hayan sido repartidas.</p>
+	<div id="search">
+	<form action="search.html">
+	<div style="float: left;"><input type="text" name="q" id="tipue_search_input"></div>
+	<div style="float: left; margin-left: 13px;"><input type="button" id="tipue_search_button" onclick="this.form.submit();"></div>
+	<div style="clear: left;"></div>
+	</form></div>
+	</body></html>

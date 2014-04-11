@@ -1,0 +1,24 @@
+---
+name: Interregnum
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 2
+  difficulty: Fįcil
+  skill: Mas que nada Destreza
+  redeals: 
+object: "Mover las cartas a las Fundaciones. Consiste en mover las cartas a las Fundaciones teniendo en cuenta la carta indicadora de la fila de arriba. Ejemplo: Si la carta indicadora es un 2, en la Fundacion se debe empezar por el 3 hasta el As y colocar el 2 de la fila indicadora hacia la Fundacion."
+setup : 
+  fundations: |
+    "<b>8 Pilas de Fundaciones</b> (fila del centro). Se construye <b>sin importar el palo a partir del valor de la primera carta dada en la primera fila,</b> enlazando del Rey al As necesariamente hasta que cada pila contenga 13 cartas."
+  tableau: |
+    "<b>8  Pilas de Tablero.</b>fila de abajo). La carta superior esta habilitada para jugar en las Fundaciones. No se pueden mover a no ser que sea a un espacio."
+  reserve: |
+    "<b>8 Cartas indicadoras</b> (fila arriba) Indica la carta superior de cada Fundacion. Debe ser la ultima carta jugada en cada Fundacion de abajo."
+  deck: |
+    "Mazo. reparte 1 carta en cada pila de Tablero."
+  imglay: imgs/solsetup/interregnum.gif
+similars: 
+  - Primrose 
+  - German Patience 

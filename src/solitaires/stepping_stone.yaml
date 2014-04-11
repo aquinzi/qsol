@@ -1,0 +1,24 @@
+---
+name: Stepping Stone
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 2
+  difficulty: Muy Fįcil
+  skill: Balance de Suerte/Destreza
+  redeals: 
+object: "Mover las cartas a las Fundaciones. Se llama Stepping Stone (piedra para cruzar un pantano, rio, etc) porque las cartas van subiendo desde el Descarte, cruzando a la Escalera y finalmente a las Fundaciones. <b>Cada carta debe cruzar cada paso.</b>"
+setup : 
+  fundations: |
+    "<b>8 Pilas de Fundaciones</b> (arriba a la derecha, empezando con las Ases). Construccion ascendente del mismo palo desde el As al Rey. <b>Solo las cartas del Aterrizaje pueden jugarse a las Fundaciones.</b>"
+  tableau: |
+    "<b>El aterrizaje</b> (10 cartas, debajo de las Fundaciones). <b>Los espacios se llenan desde la Escalera.</b> Al principio del juego 1 carta se reparte cara arriba en cada espacio, <b>exceptuando la ultima que esta vacia.</b>"
+  reserve: |
+    "<b>La Escalera</b> (9 Pilas, debajo del Aterrizaje). Se construye <b>descendentemente alternando el color. Solo una carta se mueve por vez</b> y es la superior de cada pila que se juega en la Escalera o en el Aterrizaje. Los espacios se llenan con otras cartas de la Escalera o desde el Descarte. Al empezar el juego se reparte 1 carta cara arriba en cada pila.</b>"
+  deck: |
+    "Mazo (a la izquierda de la Escalera). Se da vuelta 1 carta por vez. <b>Sin vuelta de mazo.</b><br />Descarte (debajo del mazo). Las cartas de acį se juegan solo en la Escalera."
+  imglay: imgs/solsetup/steppingstone.gif
+similars: 
+  - Step Up 
+  - Staircase 

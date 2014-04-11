@@ -1,0 +1,28 @@
+---
+name: Demons and Thieves
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 2
+  difficulty: Fįcil
+  skill: Mas que nada Destreza
+  redeals: 
+object: "Mover las cartas a las Fundaciones. Consiste en mover las cartas a las Fundaciones. El Tablero esta dividido en dos partes: a la izquierda se construyen descendentemente alternando el color. A la derecha se construyen decentemente con el mismo palo. El grupo de cartas se pueden mover de un Tablero al otro, si forman una secuencia legal en su Tablero. Ejemplo: una secuencia que alterna el color puede moverse de la izquierda a la derecha ya que es legal en su Tablero, pero no de derecha a izquierda. Para ganar se recomienda intercambiar estrategicamente las Pilas de un lado del Tablero al otro."
+setup : 
+  fundations: |
+    "<b>8 Pilas de Fundaciones</b> (arriba). Se construye <b>ascendentemente del mismo palo</b> desde el valor de la primera carta repartida en la primera pila, enlazando del Rey al As hasta que cada pila contenga 13 carta."
+  tableau: |
+    "<b>9 Pilas de Tablero</b> (debajo de las Fundaciones). Construir en las <b>primeras 4 descendentemente alternando el color. Construir las restantes 5 descendentemente del mismo palo</b>. Se puede enlazar del Rey al As en ambos casos. Mover los grupos de cartas si son legales en cada pila. Los espacios son llenados por cualquier carta o carta. Al empezar el juego <b>1 carta se reparte en las 4 primeras Pilas, y 8 cartas son repartidas en las 5 restantes.</b>"
+  reserve: |
+    "Reserva (al lado del Tablero). La carta superior esta habilitada para jugar a las Fundaciones o Tablero. <b>Al empezar el juego 13 cartas son repartidas alli.</b>"
+  deck: |
+    "Mazo (cara abajo). Se da vuelta 1 carta a la vez. <b>2 vueltas de mazo.</b>"
+  imglay: imgs/solsetup/demonsandthieves.gif
+similars: 
+  - Canfield 
+  - Demonthief 
+  - Triple Demons 
+  - Forty Thieves 
+  - Antares 
+  - Yukon Puzzle 

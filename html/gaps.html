@@ -1,0 +1,14 @@
+<!DOCTYPE html><html>
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>QSol</title>
+	<link rel="stylesheet" type="text/css" href="css/tipuesearch.css">
+	</head><body><h1>Gaps</h1><p>Crear 4 secuencias de 12 cartas del mismo palo, desde los Dos a los Reyes. Un espacio se rellena con la proxima carta mas alta que la anterior. Ejemplo: hay un 7, [espacio], 10, en el espacio se debe rellenar con un 8 (respetando siempre el palo). Los espacios lejos a la izquierda son rellenados con los Dos (en un principio cualquiera, luego seguir la regla), si los espacios estan a la izquiera de un Rey, no se puede reemplazar.<br />Cuando los cuatro espacios estan despues de un Rey se pueden remezclar las cartas que no estan en su lugar correspondiente (que no sigan la escalera desde el Dos). Se puede elegir entre 2 mezclas o ilimitadas. </p>
+	<div id="search">
+	<form action="search.html">
+	<div style="float: left;"><input type="text" name="q" id="tipue_search_input"></div>
+	<div style="float: left; margin-left: 13px;"><input type="button" id="tipue_search_button" onclick="this.form.submit();"></div>
+	<div style="clear: left;"></div>
+	</form></div>
+	</body></html>

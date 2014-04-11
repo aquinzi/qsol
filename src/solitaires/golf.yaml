@@ -1,0 +1,25 @@
+---
+name: Golf
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 1
+  difficulty: Muy Difķcil
+  skill: Balance de Suerte/Destreza
+  redeals: 
+object: "Mover todas las cartas a la pila de Descarte.. Consiste en mover las cartas del Tablero a la pila de Descarte, cuando no haya mas movimientos posibles (con esa carta) se da vuelta una carta del mazo. "
+setup : 
+  fundations: |
+    ""
+  tableau: |
+    "<b>7 Pilas de Tablero.</b>No se construye. La carta superior de cada pila esta habilitada para jugar a la pila de Descarte. Al empezar el juego <b>5 cartas estan cara arriba en cada pila.</b>"
+  reserve: |
+    ""
+  deck: |
+    "Mazo. (cara abajo). Da vuelta una carta por vez.<br />Descarte. Construir ascendente o descendentemente sin importar el palo. <b>Solo los Dos se pueden jugar sobre los Aces y nada despues de los Reyes.</b>"
+  imglay: imgs/solsetup/golf.gif
+similars: 
+  - Putt Putt 
+  - Kings Way 
+  - Black Hole 

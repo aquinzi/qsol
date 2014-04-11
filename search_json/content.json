@@ -1,0 +1,141 @@
+{
+  "Gaps": {
+    "difficulty": "Muy F\u012fcil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Spaces and Aces,Free Parking,Maze", 
+    "decks": 1
+  }, 
+  "Klondike": {
+    "difficulty": "Medio", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Double Klondike,Triple Klondike,Quadruple Klondike,Gargantua,Steps,Yukon", 
+    "decks": 1
+  }, 
+  "Acey And Kingsley": {
+    "difficulty": "Dif\u0137cil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Aces And Kings,Deuces and Queens,Racing Aces", 
+    "decks": 2
+  }, 
+  "Monte Carlo": {
+    "difficulty": "Medio", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Monaco,Fourteens,Nestor,Doublets,Vertical", 
+    "decks": 1
+  }, 
+  "Canfield Three Decks": {
+    "difficulty": "F\u012fcil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "American Toad,Canfield,Canfield Double,Canfield Quadruple,Canfield Superior,Canfield Variegated,Chameleon,Storehouse,Rainbow,Demon", 
+    "decks": 3
+  }, 
+  "Aces And Kings": {
+    "difficulty": "Dif\u0137cil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Acey and Kingsley,Deuces and Queens,Racing Aces", 
+    "decks": 2
+  }, 
+  "Pyramid": {
+    "difficulty": "Medio", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Double Pyramid,Giza,Pharaohs,Pyramid Golf,Triangle,Pyramid Seven,Cheops", 
+    "decks": 1
+  }, 
+  "Interregnum": {
+    "difficulty": "F\u012fcil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Primrose,German Patience", 
+    "decks": 2
+  }, 
+  "Aces Up": {
+    "difficulty": "Dif\u0137cil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Firing Squad", 
+    "decks": 2
+  }, 
+  "Demons and Thieves": {
+    "difficulty": "F\u012fcil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Canfield,Demonthief,Triple Demons,Forty Thieves,Antares,Yukon Puzzle", 
+    "decks": 2
+  }, 
+  "Spider": {
+    "difficulty": "Medio", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Black Widow o Spider One Suit,Tarantula o Spider Two Suits,Beetle,Brown Recluse,Spider Web,Scorpion,Spiderette,Trapdoor Spider", 
+    "decks": 2
+  }, 
+  "Crazy Quilt": {
+    "difficulty": "Dif\u0137cil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Este juego tambien se puede encontrar como Indian Carpet o Japanese Rug", 
+    "decks": 2
+  }, 
+  "Forty Thieves": {
+    "difficulty": "Dif\u0137cil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Cadran,Josephine,San Juan Hill,Number Ten,Rank and File,Limited,Lucas", 
+    "decks": 2
+  }, 
+  "British Constitution": {
+    "difficulty": "Muy F\u012fcil", 
+    "aka": null, 
+    "type": null, 
+    "decks": "2 menos los Reyes y las Reinas"
+  }, 
+  "American Toad": {
+    "difficulty": "F\u012fcil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Canfield,Double Canfield", 
+    "decks": 2
+  }, 
+  "Golf": {
+    "difficulty": "Muy Dif\u0137cil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Putt Putt,Kings Way,Black Hole", 
+    "decks": 1
+  }, 
+  "Canfield": {
+    "difficulty": "Medio", 
+    "aka": null, 
+    "type": null, 
+    "similars": "American Toad,Double Canfield,Canfield Triple,Canfield Quadruple,Canfield Superior,Canfield Variegated,Chameleon,Storehouse,Rainbow,Demon", 
+    "decks": 1
+  }, 
+  "Grandfather": {
+    "difficulty": "Muy F\u012fcil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Grandmothers,Sir Tommy,Twenty", 
+    "decks": 2
+  }, 
+  "Criss Cross": {
+    "difficulty": "Dif\u0137cil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Simple Pairs", 
+    "decks": 1
+  }, 
+  "Stepping Stone": {
+    "difficulty": "Muy F\u012fcil", 
+    "aka": null, 
+    "type": null, 
+    "similars": "Step Up,Staircase", 
+    "decks": 2
+  }
+}

@@ -1,0 +1,23 @@
+---
+name: Criss Cross
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 1
+  difficulty: Difķcil
+  skill: Mas que nada Suerte
+  redeals: 
+object: "Descartar todas las cartas en parejas. Consiste en emparejar las cartas del mismo valor. Los espacios de Tablero se rellenan con las cartas del mazo (solo 1)"
+setup : 
+  fundations: |
+    ""
+  tableau: |
+    "<b>5 Cartas de Tablero en forma de cruz </b>(cara arriba). No se construye con excepcion de la del centro cual recibe del mazo."
+  reserve: |
+    ""
+  deck: |
+    "Mazo (izquierda, cara arriba). La carta superior se puede emparejar con cualquiera de las del Tablero. Si no se puede, se coloca en la pila del centro."
+  imglay: imgs/solsetup/crisscross.gif
+similars: 
+  - Simple Pairs 

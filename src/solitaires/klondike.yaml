@@ -1,0 +1,28 @@
+---
+name: Klondike
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 1
+  difficulty: Medio
+  skill: Balance de Suerte/Destreza
+  redeals: 
+object: "Mover las cartas a las Fundaciones. Consiste en construir en el Tablero de manera descendente alternando el color, para luego moverlas a las Fundaciones."
+setup : 
+  fundations: |
+    "<b>4 Pilas de Fundaciones</b> (arriba, izquierda). Construir ascendentemente en palo de As a Rey."
+  tableau: |
+    "<b>7 Pilas de Tablero</b> (abajo de las Fundaciones). Construir descendentemente alternando el color. Este grupo se puede mover. Al principio del juego <b>1 carta se reparte para la primera pila, 2 cartas para la segunda y asi.</b> La carta superior esta cara arriba."
+  reserve: |
+    ""
+  deck: |
+    "Mazo (arriba a la izquierda, cara abajo). Se da vuelta 1 o 3 cartas por vez a la pila de Descarte. <b>Ilimitadas vueltas del mazo.</b>"
+  imglay: imgs/solsetup/klondike.gif
+similars: 
+  - Double Klondike 
+  - Triple Klondike 
+  - Quadruple Klondike 
+  - Gargantua 
+  - Steps 
+  - Yukon 

@@ -1,0 +1,23 @@
+---
+name: Crazy Quilt
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 2
+  difficulty: Difķcil
+  skill: Mucha Destreza
+  redeals: 
+object: "Mover todas las cartas a las Fundaciones. Consiste en mover todas las cartas a las Fundaciones. Las cartas en el Tablero que no tengan sus lados mas cortos tocando a otras cartas (expuestos), son las que se pueden jugar a las Fundaciones o el mazo. Las Fundaciones que empiezan con los Ases se construyen ascendentemente mientras que las que empiezan con el Rey se construyen descendentemente, ambos del mismo palo. "
+setup : 
+  fundations: |
+    "Se <b>retiran los Ases y Reyes</b> y se colocan en las fundaciones, las demas cartas se mezclan."
+  tableau: |
+    "Se crea un <b>cuadrado de 8x8</b>. La primera debe tener su primera carta verticalmente, la segunda horizontalmente, la tercera verticalmente, la cuarta horizontalmente y asi. La segunda fila debe tener su primera carta horizontal, la segunda vertical y asi."
+  reserve: |
+    ""
+  deck: |
+    "Mazo da vuelta 1 carta por vez. La carta superior del Descarte puede jugarse en las Fundaciones y tambien <b>puede construirse</b> con las cartas del Tablero ascendente o descendentemente segun el palo. Una vez terminado el mazo, <b>se da vuelta sin mezclarlo (1 sola vez)</b>."
+  imglay: imgs/solsetup/crazyquilt.gif
+similars: 
+  - Este juego tambien se puede encontrar como Indian Carpet o Japanese Rug 

@@ -1,0 +1,24 @@
+---
+name: American Toad
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 2
+  difficulty: Fįcil
+  skill: Balance de Suerte/Destreza
+  redeals: 
+object: "Mover las cartas a las Fundaciones. Consiste en mover las cartas de las Reservas y Tablero hacia las Fundaciones."
+setup : 
+  fundations: |
+    "<b>8 Pilas</b> de Fundaciones (en el medio). Construir (en orden ascendente) <b>a partir de la carta repartida en la primera pila</b>, enlazando el Rey al As hasta que cada pila contenga 13 cartas."
+  tableau: |
+    "<b>8 Pilas</b> de Tablero (debajo de las Fundaciones) que se construyen en <b>orden descendente en palo</b>, enlazando de As a Rey si es necesario. Este grupo se puede mover como unidad. Los espacios son llenados desde la Reserva (si esta vacia, se llenan con la de descarte, o si esta ultima esta vacia, por cualquier carta). Al principio del juego hay una carta repartida en cada pila."
+  reserve: |
+    "Reserva (arriba). La carta superior esta habilitada para jugar a las Fundaciones o Tablero. <b>Al empezar el juego 19 cartas son repartidas en esta pila.</b>"
+  deck: |
+    "Mazo (arriba a la izquierda, cara abajo). Se da vuelta 1 carta por vez a la pila de Descarte. <b>1 vuelta del mazo.</b>"
+  imglay: imgs/solsetup/americantoad.gif
+similars: 
+  - Canfield 
+  - Double Canfield 

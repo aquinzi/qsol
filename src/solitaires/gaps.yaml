@@ -1,0 +1,25 @@
+---
+name: Gaps
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 1
+  difficulty: Muy Fįcil
+  skill: Mas que nada Destreza
+  redeals: 
+object: "Crear 4 secuencias de 12 cartas del mismo palo, desde los Dos a los Reyes. Un espacio se rellena con la proxima carta mas alta que la anterior. Ejemplo: hay un 7, [espacio], 10, en el espacio se debe rellenar con un 8 (respetando siempre el palo). Los espacios lejos a la izquierda son rellenados con los Dos (en un principio cualquiera, luego seguir la regla), si los espacios estan a la izquiera de un Rey, no se puede reemplazar.<br />Cuando los cuatro espacios estan despues de un Rey se pueden remezclar las cartas que no estan en su lugar correspondiente (que no sigan la escalera desde el Dos). Se puede elegir entre 2 mezclas o ilimitadas. "
+setup : 
+  fundations: |
+    ""
+  tableau: |
+    "52 espacios para cartas. Al comenzar el juego <b>13 cartas son repartidas (cara arriba) en 4 filas.</b> Luego <b>los Ases son retirados</b> para dejar cuatro espacios.</li>"
+  reserve: |
+    ""
+  deck: |
+    ""
+  imglay: imgs/solsetup/gaps.gif
+similars: 
+  - Spaces and Aces 
+  - Free Parking 
+  - Maze 

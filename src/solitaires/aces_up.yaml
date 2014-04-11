@@ -1,0 +1,23 @@
+---
+name: Aces Up
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 2
+  difficulty: Difķcil
+  skill: Mas que nada Suerte
+  redeals: 
+object: "Eliminar todas las cartas del Tablero excepto los 4 Aces. Consiste en retirar todas las cartas menores al numero mas alto del mismo palo. (el As es considerada la carta mas alta)"
+setup : 
+  fundations: |
+    ""
+  tableau: |
+    "<b>4 Cartas</b> (arriba) al principio del juego, luego los espacios se pueden llenar con cualquier carta."
+  reserve: |
+    ""
+  deck: |
+    "Mazo (cara abajo). Reparte 1 carta a cada una de las 4 columnas anteriores. <b>Sin vuelta de mazo.</b>"
+  imglay: imgs/solsetup/acesup.gif
+similars: 
+  - Firing Squad 

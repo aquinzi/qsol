@@ -1,0 +1,28 @@
+---
+name: Monte Carlo
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 1
+  difficulty: Medio
+  skill: Mas que nada Suerte
+  redeals: 
+object: "Descartar todas las cartas en par. Consiste en eliminar las cartas emparejandolas con otra del mismo valor ya sea horizontal, vertical o diagonalmente.
+Una vez que se descartan todos los pares disponibles, las cartas que quedan se mueven hacia la izquierda. Si los espacios estan en una fila superior, la carta es movida desde la primera columna (primer lugar desde la izquierda)  hasta la fila superior en la ultima columna (a la derecha). Las nuevas cartas son repartidas en los espacios vacios hasta completar el cuadrado de 5x5. Se sigue este procedimiento hasta que todas las cartas del mazo hayan sido repartidas."
+setup : 
+  fundations: |
+    ""
+  tableau: |
+    "25 cartas distribuidas en un cuadrado de 5x5."
+  reserve: |
+    ""
+  deck: |
+    "Mazo (cara abajo). Rellena los lugares una vez movidas las cartas restantes del Tablero hacia arriba."
+  imglay: imgs/solsetup/montecarlo.gif
+similars: 
+  - Monaco 
+  - Fourteens 
+  - Nestor 
+  - Doublets 
+  - Vertical 

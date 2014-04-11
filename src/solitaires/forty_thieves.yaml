@@ -1,0 +1,29 @@
+---
+name: Forty Thieves
+aka: 
+caracs : 
+  type: 
+  game_time: 
+  decks: 2
+  difficulty: Difķcil
+  skill: Mas que nada Destreza
+  redeals: 
+object: "Mover las cartas a las Fundaciones. Consiste en tratar de mover todas las cartas a las Fundaciones pero solo moviendo una carta por vez para construir. Para ganar es recomendable hacer un espacio lo mas rįpido posible. "
+setup : 
+  fundations: |
+    "<b>8 Pilas de Fundaciones</b> (arriba). Construir en palo de As a Rey."
+  tableau: |
+    "<b>10 Pilas de Tablero</b> (abajo de las Fundaciones). Construir <b>descendentemente en palo</b>. Solo una carta por vez se puede mover. Los espacios se pueden llenar con cualquier carta. Al empezar el juego <b><4 cartas son repartidas en cada pila cara arriba/b>"
+  reserve: |
+    ""
+  deck: |
+    "Mazo (arriba izquierda, cara abajo). Se da vuelta 1 carta por vez a la pila de Descarte. <b>Sin vuelta de mazo.</b>"
+  imglay: imgs/solsetup/fortythieves.gif
+similars: 
+  - Cadran 
+  - Josephine 
+  - San Juan Hill 
+  - Number Ten 
+  - Rank and File 
+  - Limited 
+  - Lucas 
