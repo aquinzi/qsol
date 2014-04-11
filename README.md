@@ -1,0 +1,4 @@
+qsol
+====
+
+Solitaires "database"
